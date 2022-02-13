@@ -5,7 +5,7 @@ Chrome extension for Tinder automatic swipe right.
 
 - Buy the 'Tinder Plus' package to allow unlimited swipe right.
 - Download this extension code from https://github.com/artiya4u/auto-right-bot/releases and unzip the file.
-- Go to the Google Chrome extension page or type: chrome://extensions/ on the address bar.
+- Go to the Google Chrome extension page or type: `chrome://extensions/` on the address bar.
 - Enable 'Developer mode' in the top right corner.
 - Click 'Load unpacked' and browse the downloaded code folder.
 - Open https://tinder.com/app/recs and login into your Tinder account.
